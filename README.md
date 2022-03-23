@@ -3,7 +3,7 @@ $ neofetch
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 MassimilianoPasquini97@Italy
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 24 years
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 25 years
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Programming languages: Python, GO, Bash, C#
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: macOS
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: zsh
