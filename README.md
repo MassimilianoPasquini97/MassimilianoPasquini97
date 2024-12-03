@@ -18,8 +18,6 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="><br/>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/>
 </p>
 
