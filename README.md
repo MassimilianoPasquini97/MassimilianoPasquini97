@@ -1,13 +1,7 @@
-<h1 align='center'>
-    Massimiliano Pasquini. 👨🏻‍💻
-</h1>
+<h1 align='center'>Massimiliano Pasquini. 👨🏻‍💻</h1>
+<p align='center'>System Engineer and developer on spare time.</p></br>
 
-<p align='center'>
-    System Engineer and developer on spare time.
-</p>
-
-## 💻 Tech Stack:
-
+<h2 align='center'>💻 Tech Stack</h2>
 <p align='center'>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label="/><br/>
@@ -23,15 +17,17 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=htmx&color=3366CC&logo=htmx&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
-</p>
+</p></br>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MassimilianoPasquini97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MassimilianoPasquini97&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MassimilianoPasquini97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align='center'>📊 GitHub Stats</h2>
+<p align='center'>
+<img src="https://nirzak-streak-stats.vercel.app/?user=MassimilianoPasquini97&theme=dark&hide_border=false"/>
+</p></br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MassimilianoPasquini97&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align='center'>🔝 Top Contributed Repo</h2>
+<p align='center'>
+<img src="https://github-contributor-stats.vercel.app/api?username=MassimilianoPasquini97&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p></br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/massimiliano-pasquini-baa981124) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/massi_pasquini) 
