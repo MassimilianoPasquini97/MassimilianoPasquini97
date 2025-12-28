@@ -30,4 +30,4 @@
 </p></br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/massimiliano-pasquini-baa981124) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/massi_pasquini) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimiliano-pasquini) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/massi_pasquini) 
