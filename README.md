@@ -21,12 +21,17 @@
 
 <h2 align='center'>📊 GitHub Stats</h2>
 <p align='center'>
-<img src="https://nirzak-streak-stats.vercel.app/?user=MassimilianoPasquini97&theme=dark&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MassimilianoPasquini97&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
 </p></br>
 
 <h2 align='center'>🔝 Top Contributed Repo</h2>
 <p align='center'>
-<img src="https://github-contributor-stats.vercel.app/api?username=MassimilianoPasquini97&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MassimilianoPasquini97&theme=blueberry&hide_border=true"/>
+</p></br>
+
+<h2 align='center'>👨🏻‍💻 Most Used Languages</h2>
+<p align='center'>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MassimilianoPasquini97&theme=blueberry&hide_border=true"/>
 </p></br>
 
 ### 🌐 Socials:
