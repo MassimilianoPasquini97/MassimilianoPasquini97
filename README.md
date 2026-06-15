@@ -29,10 +29,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MassimilianoPasquini97&theme=blueberry&hide_border=true"/>
 </p></br>
 
-<h2 align='center'>👨🏻‍💻 Most Used Languages</h2>
-<p align='center'>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MassimilianoPasquini97&theme=blueberry&hide_border=true"/>
-</p></br>
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimiliano-pasquini) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/massi_pasquini) 
